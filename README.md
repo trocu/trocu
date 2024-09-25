@@ -7,7 +7,7 @@ Hi! I am a graduate of a one-year **Full-stack Web Developer** course, where I g
 
 ## Technology Stack
 
-* Astro.js
+* Astro + Astro.js
 * Angular
 * React
 * JavaScript + TypeScript
