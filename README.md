@@ -42,4 +42,4 @@ Hi! I am a graduate of a one-year **Full-stack Web Developer** course, where I g
 
 ## Where to find me
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trocu)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) in/trocu](https://www.linkedin.com/in/trocu)
