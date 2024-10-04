@@ -13,6 +13,7 @@ Hi! I am a graduate of a one-year **Full-stack Web Developer** course, where I g
 * JavaScript + TypeScript
 * HTML + CSS
 * Tailwind
+* Directus
 * NestJS
 * Node.js
 * REST
